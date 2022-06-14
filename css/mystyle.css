@@ -1,0 +1,99 @@
+@charset "utf-8";
+.p1 {
+	height: 300px;
+	background-color: #E7B5B6;
+	background-image: url(https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332);
+	background-position: center center;
+	background-size: cover;
+	margin-bottom: 5px;
+}
+.p2 {
+	height: 300px;
+	background-color: #D0CEF2;
+	background-image: url(https://images.unsplash.com/photo-1585912812840-b457972f28d0?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170);
+	background-position: center center;
+	background-size: cover;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+.p3 {
+	height: 300px;
+	background-image: url(https://images.unsplash.com/photo-1584652812805-2192cf80731d?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1252);
+	background-position: center center;
+	background-size: cover;
+	margin-bottom: 5px;
+}
+.head {
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+	background-color: #000000;
+	padding-bottom: 0px;
+	margin-bottom: 5px;
+	font-size: 40px;
+	color: #DF0002;
+	opacity: 0.9;
+}
+.p4 {
+	height: 300px;
+	background-image: url(https://images.unsplash.com/photo-1613796434552-319eb4997874?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170);
+	background-position: center center;
+	background-size: cover;
+	margin-bottom: 5px;
+}
+.p5 {
+	background-image: url(https://images.unsplash.com/photo-1603264046327-b7be78c98056?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387);
+	height: 605px;
+	background-position: center center;
+	background-size: cover;
+	margin-left: 5px;
+}
+.p6 {
+	height: 300px;
+	background-image: url(https://images.unsplash.com/photo-1583947582886-f40ec95dd752?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170);
+	background-position: center center;
+	background-size: cover;
+	margin-bottom: 5px;
+}
+.p7 {
+	background-image: url(https://images.unsplash.com/photo-1605289982774-9a6fef564df8?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464);
+	height: 505px;
+	background-position: center center;
+	background-size: cover;
+	margin-right: 5px;
+}
+.p8 {
+	height: 250px;
+	background-image: url(https://images.unsplash.com/photo-1592671977183-b306d0e37a20?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169);
+	background-position: center center;
+	background-size: cover;
+	margin-bottom: 5px;
+}
+.p9 {
+	height: 250px;
+	background-image: url(https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870);
+	background-position: center center;
+	background-size: cover;
+	margin-bottom: 5px;
+}
+.p10 {
+	background-image: url(https://images.unsplash.com/photo-1584466990376-09422a2b033a?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170);
+	background-position: center center;
+	background-size: cover;
+	height: 300px;
+}
+.p11 {
+	background-image: url(https://images.unsplash.com/photo-1593007791459-4b05e1158229?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170);
+	background-position: center center;
+	background-size: cover;
+	height: 300px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.p12 {
+	height: 300px;
+	background-image: url(https://images.unsplash.com/photo-1586293403445-ffa224197984?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170);
+	background-position: center center;
+	background-size: cover;
+}
